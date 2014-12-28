@@ -1,3 +1,4 @@
+package com.sanchitgoyal.hackerrank.algorithms.warmup;
 import java.util.Scanner;
 
 public class LoveLetterMystery {
